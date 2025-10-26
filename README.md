@@ -28,7 +28,7 @@ It was created as part of a collaborative lab assignment.
 
 ## 6_Resources:
 
-## 7_Contact:
+
 
 ## Tools and Technologies
 - Tools: Excel, Python, Canva, etc.  
