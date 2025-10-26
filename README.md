@@ -27,6 +27,8 @@ It was created as part of a collaborative lab assignment.
 ## 5_Living with Diabetes:
 
 ## 6_Resources:
+[World Health Organization – Diabetes Information](https://www.who.int/health-topics/diabetes)
+[Centers for Disease Control and Prevention (CDC) – Diabetes Information](https://www.cdc.gov/diabetes/index.html)
 
 
 
