@@ -1,11 +1,10 @@
-# Project-ANP-Group-4
 # Diabetes Awareness
-A short description of your collaborative project. Explain the main goal and the problem you are solving.
+Welcome to our Diabetes Awareness website, our goal is to help you understand diabetes, its symptoms, and how to prevent it through a healthy lifestyle.
 
 ## Team Members
 - Chenouf Romaiçaa 
 - Sellami Hayat 
-- El Guesier Ikram 
+-  Ikram 
 - Louz Wafa
 - abbas orabi hayam 
 
