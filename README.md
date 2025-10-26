@@ -13,7 +13,7 @@ This project focuses on [insert your topic here, e.g. “developing a simple web
 “studying the effects of fermentation on local foods”].  
 It was created as part of a collaborative lab assignment.
 
-## 1_About Diabetes: What is Diabetes?
+## 1_About Diabetes: What is Diabetes?Diabetes is a chronic condition that occurs when the body cannot properly use or produse insulin the hormone responsible for regulating blood sugar levels.
 
    
 ## 2_About Diabetes:Types of diabetes
