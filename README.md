@@ -103,7 +103,7 @@ Living with diabetes can be emotionally challenging — and that’s normal.
 
 
 
-Resources📚:---
+# Resources📚:---
 
 
 [World Health Organization – Diabetes Information](https://www.who.int/health-topics/diabetes)
