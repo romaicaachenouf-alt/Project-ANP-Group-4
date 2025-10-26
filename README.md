@@ -54,10 +54,8 @@ The Diabetes Textbook: Clinical Principles, Patient Management and Public Health
 Textbook of Diabetes (Holt et al.) — 5th Edition، Wiley. 
 
 
-## Tools and Technologies
-- Tools: Excel, Python, Canva, etc.  
-- Libraries or resources used  
-- References or datasets if applicable  
+
+ 
 
 ## Collaboration and Contributions- Chenouf Romaiçaa 
 - Chenouf Romaiçaa 
