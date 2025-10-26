@@ -51,6 +51,7 @@ _Tingling or numbness in hands or feet.
 [World Health Organization – Diabetes Information](https://www.who.int/health-topics/diabetes)
 [Centers for Disease Control and Prevention (CDC) – Diabetes Information](https://www.cdc.gov/diabetes/index.html)
 The Diabetes Textbook: Clinical Principles, Patient Management and Public Health Issues — 2nd Edition، Springer. 
+Textbook of Diabetes (Holt et al.) — 5th Edition، Wiley. 
 
 
 ## Tools and Technologies
