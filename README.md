@@ -41,9 +41,14 @@ We used issues and a project board to track progress and task distribution.
 
 ## Contact
 1/Algerian Ministry of Health:
-📞phone number : 021 23 80 24
-🌐Website : https://sante.gov.dz
 <p>📞 Ministry of Health (Algeria): 021 23 80 24</p>
 <p>🌐 Website: <a href="https://sante.gov.dz" target="_blank">sante.gov.dz</a></p>
+2/Green Line for Health Awareness:
+<p>📞 Green Health Line: 3030 (Free Call)</p>
+3/Algerian Association of Diabetes Patients (AAMD):
+<p>📞 Algerian Association for Diabetics: 021 62 22 55</p>
+<p>🌐 <a href="http://www.diabete-dz.org/" target="_blank">diabete-dz.org</a></p>
+4/Emergency medical services:
+<p>🚨 In case of emergency: call 14 (medical help) or 17 (police)</p>
 
 
