@@ -20,6 +20,15 @@ It was created as part of a collaborative lab assignment.
 
 
 ## 3_Symptoms:
+_Frequent urination.
+_Excessive thirst.
+_Unusual weight loss.
+_Fatigue (feeling very tired).
+_Blurred vision.
+_Slow healing of wounds.
+_Tingling or numbness in hands or feet.
+⚕️ If you notice several of these symptoms, see a doctor for a blood sugar test.
+
 
 
 ## 4_Prevention:
