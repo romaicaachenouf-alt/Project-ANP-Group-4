@@ -4,7 +4,7 @@ Welcome to our Diabetes Awareness website, our goal is to help you understand di
 ## Team Members
 - Chenouf Romaiçaa 
 - Sellami Hayat 
--  Ikram 
+-  Ikram sahnoun 
 - Louz Wafa
 - abbas orabi hayam 
 
