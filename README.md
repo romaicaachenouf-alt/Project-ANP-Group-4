@@ -44,8 +44,12 @@ _Tingling or numbness in hands or feet.
 
 
 ## 4_Prevention:
-
-
+1/Maintain a healthy weight:An ideal weight reduces the risk of diabetes .
+2/Follow a balanced diet :eat fruit ,vegetables whole grains , and avoid foods high in sugar and saturated fats.
+3/Exercice regularly :activities like walking ,swimming ,or cycling for 30 minutes a day.
+4/Manage stress :chronic stress can increase blood sugar levels.
+5/Regular blood sugar check-ups:Especially if you have a family history of diabetes.
+6/Avoid smoking and alcohol:these habits increase the risk of chronic disease ,including diabetes .
 ## 5_Living with Diabetes:
 
 ## 6_Resources:
