@@ -40,4 +40,10 @@ All team members contributed to the project through GitHub.
 We used issues and a project board to track progress and task distribution.
 
 ## Contact
-For questions or feedback, please contact the group leader or supervisor.
+1/Algerian Ministry of Health:
+📞phone number : 021 23 80 24
+🌐Website : https://sante.gov.dz
+<p>📞 Ministry of Health (Algeria): 021 23 80 24</p>
+<p>🌐 Website: <a href="https://sante.gov.dz" target="_blank">sante.gov.dz</a></p>
+
+
