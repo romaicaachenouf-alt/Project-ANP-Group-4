@@ -47,9 +47,12 @@ _Tingling or numbness in hands or feet.
 - Libraries or resources used  
 - References or datasets if applicable  
 
-## Collaboration and Contributions
-All team members contributed to the project through GitHub.  
-We used issues and a project board to track progress and task distribution.
+## Collaboration and Contributions- Chenouf Romaiçaa 
+- Chenouf Romaiçaa 
+- Sellami Hayat 
+-  Ikram sahnoun 
+- Louz Wafa
+- abbas orabi hayam 
 
 ## Contact
 1/Algerian Ministry of Health:
