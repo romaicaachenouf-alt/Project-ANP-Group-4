@@ -17,6 +17,13 @@ It was created as part of a collaborative lab assignment.
 
    
 ## 2_About Diabetes:Types of diabetes
+Type 1 diabetes mellitus (T1DM): The body’s immune system attacks the insulin-producing cells in the pancreas, leading to little or no insulin production. 
+
+Type 2 diabetes mellitus (T2DM): The body still produces insulin, but the cells don’t respond to it properly (insulin resistance), and over time the pancreas may not make enough insulin. 
+
+Gestational diabetes mellitus (GDM): This develops during pregnancy in someone who didn’t have diabetes before, and it usually disappears after delivery. 
+
+Other specific types of diabetes: These are less common and include forms such as monogenic diabetes (e.g., MODY), neonatal diabetes, diabetes caused by diseases of the pancreas, genetic defects, etc. 
 
 
 ## 3_Symptoms:
