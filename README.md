@@ -101,24 +101,19 @@ Living with diabetes can be emotionally challenging — and that’s normal.
 
 ---
 
-✨ *Remember: living with diabetes doesn’t mean limiting your life — it means learning to live it smartly and healthily.*  
+
 
 ---
 
-## 📚 References
-1. American Diabetes Association. (2024). *Standards of Medical Care in Diabetes.* Diabetes Care.  
-2. World Health Organization (WHO). (2023). *Diabetes Fact Sheet.*  
-3. Centers for Disease Control and Prevention (CDC). (2023). *Managing Diabetes: Healthy Living Guide.*  
-4. Mayo Clinic. (2024). *Diabetes management: How lifestyle, daily routine affect blood sugar.*  
 
----
-
-## 6_Resources:
 [World Health Organization – Diabetes Information](https://www.who.int/health-topics/diabetes)
 [Centers for Disease Control and Prevention (CDC) – Diabetes Information](https://www.cdc.gov/diabetes/index.html)
 The Diabetes Textbook: Clinical Principles, Patient Management and Public Health Issues — 2nd Edition، Springer. 
 Textbook of Diabetes (Holt et al.) — 5th Edition، Wiley. 
-
+American Diabetes Association. (2024). Standards of Medical Care in Diabetes. Diabetes Care.
+World Health Organization (WHO). (2023). Diabetes Fact Sheet.
+Centers for Disease Control and Prevention (CDC). (2023). Managing Diabetes: Healthy Living Guide.
+Mayo Clinic. (2024). Diabetes management: How lifestyle, daily routine affect blood sugar.
 
 
  
