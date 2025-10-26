@@ -13,7 +13,7 @@ This project focuses on [insert your topic here, e.g. “developing a simple web
 “studying the effects of fermentation on local foods”].  
 It was created as part of a collaborative lab assignment.
 
-## 1_About Diabetes: What is Diabetes?
+## 1_About Diabetes: What is Diabetes?Diabetes is a chronic disease where the body has too much glucose (sugar) in the blood because it either doesn't produce enough insulin or can't effectively use the insulin it produces. Insulin, a hormone made by the pancreas, helps move glucose from the blood into cells for energy. High blood glucose over time can lead to serious health issues affecting the nerves, eyes, and kidneys. 
 
    
 ## 2_About Diabetes:Types of diabetes
